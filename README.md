@@ -18,13 +18,15 @@
 ## Introduction
 날씨에 민감하게 반응하는 특성을 갖고 있는 다류시장의 특성을 고려하여, 
 
-### 0. Goal
+## 0. Goal
 ![최종공모안_비온뒤맑음_page-0009](https://user-images.githubusercontent.com/71932401/146673732-931e9639-dba4-4a29-9451-2be345074daa.jpg)
 
-### 1. Analysis
+## 1. Analysis
+### 음료시장 Clustering
+![최종공모안_비온뒤맑음_page-0013](https://user-images.githubusercontent.com/71932401/146674009-b507e3d3-c127-4689-8307-b4fd29d9be46.jpg)  
+![최종공모안_비온뒤맑음_page-0014](https://user-images.githubusercontent.com/71932401/146674013-873fde93-1898-4b68-b8ee-5a8a8db64b32.jpg)
 
-
-### 2. Insight & Suggestion
+## 2. Insight & Suggestion
 ![최종공모안_비온뒤맑음_page-0032](https://user-images.githubusercontent.com/71932401/146673930-f4a19f18-1e08-446e-a5ab-a45c031710d9.jpg)  
 ![최종공모안_비온뒤맑음_page-0033](https://user-images.githubusercontent.com/71932401/146673932-cf74aa40-df79-4c73-a898-2aadeba07e25.jpg)  
 ![최종공모안_비온뒤맑음_page-0034](https://user-images.githubusercontent.com/71932401/146673935-f37ded7c-002f-4ed2-87ba-713e403aee5e.jpg)  
