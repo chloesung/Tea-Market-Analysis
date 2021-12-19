@@ -26,6 +26,35 @@
 ![최종공모안_비온뒤맑음_page-0013](https://user-images.githubusercontent.com/71932401/146674009-b507e3d3-c127-4689-8307-b4fd29d9be46.jpg)  
 ![최종공모안_비온뒤맑음_page-0014](https://user-images.githubusercontent.com/71932401/146674013-873fde93-1898-4b68-b8ee-5a8a8db64b32.jpg)
 
+### 군집 별 Regression
+![최종공모안_비온뒤맑음_page-0015](https://user-images.githubusercontent.com/71932401/146674017-b796e37e-8f51-481d-9950-58f368f690c7.jpg)  
+![최종공모안_비온뒤맑음_page-0016](https://user-images.githubusercontent.com/71932401/146674050-6023e5c0-3531-4e19-a29c-b000fb07f5f4.jpg)
+
+![최종공모안_비온뒤맑음_page-0017](https://user-images.githubusercontent.com/71932401/146674056-2404bf9a-e2f9-4d00-9614-b217687b5887.jpg)
+
+![최종공모안_비온뒤맑음_page-0018](https://user-images.githubusercontent.com/71932401/146674058-b88f9bf4-a1c1-4e04-b77c-55b8f2f21de9.jpg)
+
+![최종공모안_비온뒤맑음_page-0019](https://user-images.githubusercontent.com/71932401/146674061-40a6500a-917d-4d78-95aa-98b39e3796e8.jpg)
+
+### 군집 별 NLP 분석
+![최종공모안_비온뒤맑음_page-0020](https://user-images.githubusercontent.com/71932401/146674089-d177100d-145a-4621-8c8a-1537630741d8.jpg)
+
+![최종공모안_비온뒤맑음_page-0021](https://user-images.githubusercontent.com/71932401/146674092-a2e71e0f-68b8-4406-b73e-3111bad8f1f9.jpg)
+
+![최종공모안_비온뒤맑음_page-0022](https://user-images.githubusercontent.com/71932401/146674094-d57ce304-2c1b-45ca-9954-0f7a20c56be3.jpg)
+
+![최종공모안_비온뒤맑음_page-0023](https://user-images.githubusercontent.com/71932401/146674096-585c704c-5518-4272-a628-94f95b4d8196.jpg)
+
+### 수요량 예측 모델링
+![최종공모안_비온뒤맑음_page-0024](https://user-images.githubusercontent.com/71932401/146674114-ef397f9e-6dcd-4855-b002-1fd78c065aef.jpg)
+
+![최종공모안_비온뒤맑음_page-0028](https://user-images.githubusercontent.com/71932401/146674117-c3afe549-f683-489a-9a46-85f956d79649.jpg)
+
+![최종공모안_비온뒤맑음_page-0029](https://user-images.githubusercontent.com/71932401/146674120-bb6fef1e-0bf4-429c-ab84-6355e5549811.jpg)
+
+![최종공모안_비온뒤맑음_page-0030](https://user-images.githubusercontent.com/71932401/146674122-919059e4-41bf-48ea-be41-7cdcfc1b4d9c.jpg)
+
+
 ## 2. Insight & Suggestion
 ![최종공모안_비온뒤맑음_page-0032](https://user-images.githubusercontent.com/71932401/146673930-f4a19f18-1e08-446e-a5ab-a45c031710d9.jpg)  
 ![최종공모안_비온뒤맑음_page-0033](https://user-images.githubusercontent.com/71932401/146673932-cf74aa40-df79-4c73-a898-2aadeba07e25.jpg)  
