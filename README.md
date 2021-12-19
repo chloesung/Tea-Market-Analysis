@@ -16,7 +16,7 @@
 💬 Contact: chloesung@korea.ac.kr
 
 ## Introduction
-날씨에 민감하게 반응하는 특성을 갖고 있는 다류시장의 특성을 고려하여, 
+날씨에 민감하게 반응한다는 다류시장의 특성을 고려하여, 
 
 ## 0. Goal
 ![최종공모안_비온뒤맑음_page-0009](https://user-images.githubusercontent.com/71932401/146673732-931e9639-dba4-4a29-9451-2be345074daa.jpg)
